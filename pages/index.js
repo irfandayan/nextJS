@@ -26,7 +26,7 @@ export default function Home() {
           using Lorem Ipsum is that it has a more-or-less normal distribution of
           letters.
         </p>
-        <Link href="/ninja">
+        <Link href="/ninjas">
           <a className={styles.btn}>See Ninja Listing</a>
         </Link>
       </div>
