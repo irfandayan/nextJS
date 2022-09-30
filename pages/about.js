@@ -1,14 +1,7 @@
-import Head from 'next/head';
-import Image from 'next/image';
-import Footer from '../components/Footer';
-import Navbar from '../components/Navbar';
-import styles from '../styles/Home.module.css';
-
-export default function Home() {
+const about = () => {
   return (
     <div>
-      <Navbar />
-      <h1>Home Page</h1>
+      <h1>About</h1>
       <p>
         It is a long established fact that a reader will be distracted by the
         readable content of a page when looking at its layout. The point of
@@ -21,7 +14,8 @@ export default function Home() {
         using Lorem Ipsum is that it has a more-or-less normal distribution of
         letters.
       </p>
-      <Footer />
     </div>
   );
-}
+};
+
+export default about;
