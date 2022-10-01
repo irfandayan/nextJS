@@ -14,7 +14,7 @@
     <li>Redirecting</li>
     <li>Images & Metadata</li>
     <li>Fetching data (getStaticProps)</li>
-    <li>Dyanmic Routes</li>
+    <li>Dynamic Routes</li>
     <li>getStaticPaths</li>
 </ul>
 
