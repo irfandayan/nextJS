@@ -1,4 +1,4 @@
-<h1><a href="https://project-managmnet-app-graphql.herokuapp.com/"> Live Site </a></h1>
+<h1><a href="https://ninjaslist-rho.vercel.app/"> Live Site </a></h1>
 
 <h2>Next.js App - Ninja List App</h2>
 
