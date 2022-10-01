@@ -15,7 +15,7 @@
     <li>Images & Metadata</li>
     <li>Fetching data (getStaticProps)</li>
     <li>Dynamic Routes</li>
-    <li>getStaticPaths</li>
+    <li>Dynamic Routes with getStaticPaths</li>
 </ul>
 
 <h4>Deployment</h4>
